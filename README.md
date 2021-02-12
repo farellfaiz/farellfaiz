@@ -27,6 +27,7 @@
 <a href="mailto:farellfaiz@wargati.ga">
   <img align="left" alt="Farell Faiz | Mail" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/email.png" />
 </a>
+<img align="left" alt="Farell Faiz | Visitors" src="https://visitor-badge.glitch.me/badge?page_id=farellfaiz.farellfaiz" />
 
 <br />
 <br />
