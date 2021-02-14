@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working at Warga Tiga 2021 as a tech volunteer.
 - 🌱 I’m currently learning for high school and university selection exam xD
-- 👯 I’m looking to collaborate on many projects, especially on website development.
+- 👯 I’m looking to collaborate on many projects.
 - 💬 Ask me about anything [here](https://github.com/farellfaiz/farellfaiz/issues)
 
 ------------
