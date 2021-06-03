@@ -63,6 +63,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=farellfaiz&hide=stars&show_icons=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farellfaiz&layout=compact">
 
+<img src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/main/assets/wave.svg" >
+
 <!--
 
 If you have any question or you would like to have a chat with me, feel free to reach me on [email](mailto:farellfaiz@wargati.ga), [Twitter](https://twitter.com/farellfaiz), or [LinkedIn](https://www.linkedin.com/in/farellfaiz/).
