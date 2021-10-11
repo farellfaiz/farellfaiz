@@ -12,18 +12,6 @@
 <a href="https://linkedin.com/in/farellfaiz">
   <img align="left" alt="Farell Faiz | Linkedin" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/linkedin.png" />
 </a>
-<a href="https://codepen.io/farellfaiz">
-  <img align="left" alt="Farell Faiz | Codepen" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/codepen.png" />
-</a>
-<a href="https://open.spotify.com/user/farellfaiz">
-  <img align="left" alt="Farell Faiz | Spotify" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/spotify.png" />
-</a>
-<a href="https://medium.com/@farellfaiz">
-  <img align="left" alt="Farell Faiz | Medium" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/medium.jpeg" />
-</a>
-<a href="https://t.me/farellfaiz">
-  <img align="left" alt="Farell Faiz | Telegram" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/telegram.svg" />
-</a>
 <a href="mailto:farellfaiz@wargati.ga">
   <img align="left" alt="Farell Faiz | Mail" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/email.png" />
 </a>
@@ -60,12 +48,37 @@
 
 ------------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=farellfaiz&hide=stars&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=farellfaiz&hide=stars&show_icons=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farellfaiz&layout=compact">
 
 <img src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/main/assets/wave.svg" >
 
 <!--
+
+<a href="https://facebook.com/farellfaiz">
+  <img align="left" alt="Farell Faiz | Facebook" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/facebook.png" />
+</a>
+<a href="https://instagram.com/farellfaiz">
+  <img align="left" alt="Farell Faiz | Instagram" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/instagram.png" />
+</a>
+<a href="https://twitter.com/farellfaiz">
+  <img align="left" alt="Farell Faiz | Twitter" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/twitter.png" />
+</a>
+<a href="https://linkedin.com/in/farellfaiz">
+  <img align="left" alt="Farell Faiz | Linkedin" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/linkedin.png" />
+</a>
+<a href="https://t.me/farellfaiz">
+  <img align="left" alt="Farell Faiz | Telegram" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/telegram.svg" />
+</a>
+<a href="https://codepen.io/farellfaiz">
+  <img align="left" alt="Farell Faiz | Codepen" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/codepen.png" />
+</a>
+<a href="https://open.spotify.com/user/farellfaiz">
+  <img align="left" alt="Farell Faiz | Spotify" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/spotify.png" />
+</a>
+<a href="https://medium.com/@farellfaiz">
+  <img align="left" alt="Farell Faiz | Medium" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/medium.jpeg" />
+</a>
 
 If you have any question or you would like to have a chat with me, feel free to reach me on [email](mailto:farellfaiz@wargati.ga), [Twitter](https://twitter.com/farellfaiz), or [LinkedIn](https://www.linkedin.com/in/farellfaiz/).
 
