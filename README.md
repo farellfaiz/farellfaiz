@@ -20,8 +20,8 @@
 <br />
 <br />
 
-- 🏫 I’m currently an undergraduate student at Faculty of Earth Science and Technology, ITB.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🏫 I’m currently an undergraduate student at Geodesy and Geomatics Engineering, ITB.
+- 🌱 I’m currently learning SQL, GIS, Python, and JavaScript.
 - 👯 I’m looking to collaborate on many projects.
 - 💬 Ask me about anything [here](https://github.com/farellfaiz/farellfaiz/issues)
 
