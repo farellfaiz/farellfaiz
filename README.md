@@ -48,10 +48,18 @@
 
 ------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=farellfaiz&hide=stars&show_icons=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farellfaiz&layout=compact">
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=farellfaiz&hide=stars&show_icons=true&include_all_commits=true"></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farellfaiz&layout=compact"></td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/main/assets/wave.svg" >
+<p align="center" style="margin-top: 10px">
+<img src="https://osekai.net/profiles/img/banner.svg?id=7856087" width="70%" align="center">
+</p>
+
+<img src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/main/assets/wave.svg">
 
 <!--
 
@@ -98,3 +106,9 @@ Here are some ideas to get you started:
 ![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farellfaiz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&icon_color=fff&hide=stars)
 
 -->
+
+<!-- <details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details> -->
