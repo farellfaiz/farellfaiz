@@ -1,114 +1,74 @@
-### Hi there, I'm [Faiz!](https://farellfaiz.github.io) 👋
+<div align="center">
 
-<a href="https://facebook.com/farellfaiz">
-  <img align="left" alt="Farell Faiz | Facebook" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/facebook.png" />
-</a>
-<a href="https://instagram.com/farellfaiz">
-  <img align="left" alt="Farell Faiz | Instagram" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/instagram.png" />
-</a>
-<a href="https://twitter.com/farellfaiz">
-  <img align="left" alt="Farell Faiz | Twitter" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/twitter.png" />
-</a>
-<a href="https://linkedin.com/in/farellfaiz">
-  <img align="left" alt="Farell Faiz | Linkedin" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/linkedin.png" />
-</a>
-<a href="mailto:farellfaiz@wargati.ga">
-  <img align="left" alt="Farell Faiz | Mail" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/email.png" />
-</a>
-<img align="left" alt="Farell Faiz | Visitors" src="https://visitor-badge.glitch.me/badge?page_id=farellfaiz.farellfaiz" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a9d8f&height=160&section=header&text=Farell%20Faiz&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Geodesy%20%26%20Geomatics%20%E2%80%A2%20Web%20%26%20GIS%20Developer&descAlignY=60&descSize=16" width="100%" alt="Farell Faiz" />
 
-<br />
-<br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2A9D8F&center=true&vCenter=true&width=520&lines=Mapping+the+earth%2C+one+layer+at+a+time+%F0%9F%8C%8F;Building+WebGIS+%26+lightweight+web+apps;Svelte+%E2%80%A2+React+%E2%80%A2+Leaflet+%E2%80%A2+Python" alt="Typing SVG" /></a>
 
-- 🏫 I’m currently an undergraduate student at Geodesy and Geomatics Engineering, ITB.
-- 🌱 I’m currently learning SQL, GIS, RS, Python, and JavaScript.
-- 👯 I’m looking to collaborate on many projects.
-- 💬 Ask me about anything [here](https://github.com/farellfaiz/farellfaiz/issues)
+<a href="https://farellfaiz.github.io"><img src="https://img.shields.io/badge/Website-farellfaiz.github.io-2a9d8f?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://linkedin.com/in/farellfaiz"><img src="https://img.shields.io/badge/LinkedIn-farellfaiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/farellfaiz"><img src="https://img.shields.io/badge/Instagram-farellfaiz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/farellfaiz"><img src="https://img.shields.io/badge/X-farellfaiz-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://codepen.io/farellfaiz"><img src="https://img.shields.io/badge/CodePen-farellfaiz-111111?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" /></a>
+<img src="https://komarev.com/ghpvc/?username=farellfaiz&style=flat-square&color=2a9d8f&label=Profile+views" alt="Profile views" />
 
-------------
+</div>
 
-**Languages, Tools, and Interests:**
+## 👋 About me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+- 🏫 Geodesy and Geomatics Engineering, Institut Teknologi Bandung (ITB)
+- 🗺️ Into GIS, remote sensing, and turning spatial data into web apps people actually use
+- 🌱 Currently sharpening SQL, Python, and JavaScript for geospatial work
+- 👯 Open to collaborating on WebGIS, disaster-risk dashboards, and civic tech
+- 💬 Ask me anything [here](https://github.com/farellfaiz/farellfaiz/issues)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
+## 🚀 Featured projects
 
-*NOTE: This does not indicate my skill level*
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**muslims-daily**](https://github.com/farellfaiz/muslims-daily) | Daily worship companion PWA: prayer times, prayer tracker, and duas. Lightweight and works offline. | Svelte, PWA |
+| [**arch-ds**](https://github.com/farellfaiz/arch-ds) | Clean design system: monochrome primary, paper wash, soft gradient depth. | CSS tokens, React |
+| [**leaflet-quickstart**](https://github.com/farellfaiz/leaflet-quickstart) | WebGIS quickstart tutorial for IMG Scholar Academy. | Leaflet, HTML |
+| [**peta-indonesia-geojson**](https://github.com/farellfaiz/peta-indonesia-geojson) | Indonesia GeoJSON map with province codes. | GeoJSON |
+| [**multihazard-dashboard**](https://github.com/farellfaiz/multihazard-dashboard) | Multi-hazard web dashboard. | JavaScript |
+| [**massabumi21-shortener**](https://github.com/farellfaiz/massabumi21-shortener) | Free, ad-free link shortener. | TypeScript |
 
-------------
+## 🛠️ Languages, tools, and interests
 
-<table align="center">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=farellfaiz&hide=stars&show_icons=true&include_all_commits=true"></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farellfaiz&layout=compact"></td>
-  </tr>
-</table>
-
-<p align="center" style="margin-top: 10px">
-<img src="https://osekai.net/profiles/img/banner.svg?id=7856087" width="70%" align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,svelte,react,vue,nodejs,mongodb,php&perline=8" alt="Web stack" /><br />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,ruby,arduino,git,figma,vercel&perline=8" alt="Data and tools" />
 </p>
 
-<img src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/main/assets/wave.svg">
+<p align="center">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Earth Engine" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+</p>
 
-<!--
+<p align="center"><sub><i>This does not indicate my skill level.</i></sub></p>
 
-<a href="https://facebook.com/farellfaiz">
-  <img align="left" alt="Farell Faiz | Facebook" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/facebook.png" />
-</a>
-<a href="https://instagram.com/farellfaiz">
-  <img align="left" alt="Farell Faiz | Instagram" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/instagram.png" />
-</a>
-<a href="https://twitter.com/farellfaiz">
-  <img align="left" alt="Farell Faiz | Twitter" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/twitter.png" />
-</a>
-<a href="https://linkedin.com/in/farellfaiz">
-  <img align="left" alt="Farell Faiz | Linkedin" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/linkedin.png" />
-</a>
-<a href="https://t.me/farellfaiz">
-  <img align="left" alt="Farell Faiz | Telegram" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/telegram.svg" />
-</a>
-<a href="https://codepen.io/farellfaiz">
-  <img align="left" alt="Farell Faiz | Codepen" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/codepen.png" />
-</a>
-<a href="https://open.spotify.com/user/farellfaiz">
-  <img align="left" alt="Farell Faiz | Spotify" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/spotify.png" />
-</a>
-<a href="https://medium.com/@farellfaiz">
-  <img align="left" alt="Farell Faiz | Medium" width="21px" src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/master/assets/medium.jpeg" />
-</a>
+## 📊 GitHub activity
 
-If you have any question or you would like to have a chat with me, feel free to reach me on [email](mailto:farellfaiz@wargati.ga), [Twitter](https://twitter.com/farellfaiz), or [LinkedIn](https://www.linkedin.com/in/farellfaiz/).
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farellfaiz&hide_border=true&background=00000000&ring=2A9D8F&fire=2A9D8F&currStreakLabel=2A9D8F" alt="GitHub streak" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://ghchart.rshah.org/2a9d8f/farellfaiz" alt="Contribution chart" width="90%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning for high school exam and university selection exam xD
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farellfaiz/farellfaiz/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/farellfaiz/farellfaiz/output/github-snake.svg" alt="Contribution snake" width="90%" />
+  </picture>
+</p>
 
-![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=farellfaiz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars)
+## 🎮 Off the clock
 
-![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farellfaiz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&icon_color=fff&hide=stars)
+<p align="center">
+  <img src="https://osekai.net/profiles/img/banner.svg?id=7856087" width="70%" alt="osu! profile" />
+</p>
 
--->
-
-<!-- <details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-
-</details> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a9d8f,100:1e3c72&height=100&section=footer" width="100%" alt="" />
